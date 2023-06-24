@@ -1,0 +1,8 @@
+{
+    "name": "AutoResetGhillie",
+    "author": "testman",
+    "description": "Auto reset dungeons when teleport to Ghillieglade Entrance. For ver100.02 Starscape.",
+    "servers": ["https://raw.githubusercontent.com/testman-0/AutoResetGhillie/master/"],
+    "version": "5/22/2023",
+    "disableAutoUpdate": true
+}
